@@ -1,4 +1,4 @@
-# libre
+# Libre
 Documentación libre. licensed under a GNU General Public License v3.0 International License.
 
 The purpose of this repository is to publish the templates that every STARTUP may need in order to optimize resources.
